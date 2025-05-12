@@ -1,0 +1,156 @@
+LOCATION-WISE ANALYSIS
+
+Location: 0
+Mean Absolute Error (MAE): 8.23015408152493
+Mean Absolute Percentage Error (MAPE): 8.916360136244933 %
+Base-line MAE:  8.244119524029534
+Coefficient of Variation (CV) of RMSE: -0.10092939515668169
+R² Score: 0.0015511770930862756
+
+
+Location: 1
+Mean Absolute Error (MAE): 11.3924230696837
+Mean Absolute Percentage Error (MAPE): 12.54265139898701 %
+Base-line MAE:  11.436158509760169
+Coefficient of Variation (CV) of RMSE: -0.13457195447672413
+R² Score: 0.0042910147548417266
+
+
+Location: 2
+Mean Absolute Error (MAE): 8.822758077438285
+Mean Absolute Percentage Error (MAPE): 9.520013863062221 %
+Base-line MAE:  8.843277390287161
+Coefficient of Variation (CV) of RMSE: -0.10783037489226237
+R² Score: 0.0025826162108075756
+
+
+Location: 3
+Mean Absolute Error (MAE): 8.783480062209687
+Mean Absolute Percentage Error (MAPE): 9.514306782006829 %
+Base-line MAE:  8.839885972786734
+Coefficient of Variation (CV) of RMSE: -0.1048011369777594
+R² Score: 0.0060121383999866
+
+
+Location: 4
+Mean Absolute Error (MAE): 9.717542666244922
+Mean Absolute Percentage Error (MAPE): 10.491608765810613 %
+Base-line MAE:  9.74718601539048
+Coefficient of Variation (CV) of RMSE: -0.11844664950254215
+R² Score: 0.00482800828054053
+
+
+Location: 5
+Mean Absolute Error (MAE): 6.088743046272901
+Mean Absolute Percentage Error (MAPE): 6.297288673101141 %
+Base-line MAE:  6.094005624157816
+Coefficient of Variation (CV) of RMSE: -0.07560797162136865
+R² Score: 0.005239955801081497
+
+
+Location: 6
+Mean Absolute Error (MAE): 11.1775330266783
+Mean Absolute Percentage Error (MAPE): 12.267618453903834 %
+Base-line MAE:  11.225342045964572
+Coefficient of Variation (CV) of RMSE: -0.1359247964486438
+R² Score: 0.004383297809130604
+
+
+Location: 7
+Mean Absolute Error (MAE): 9.156029732100333
+Mean Absolute Percentage Error (MAPE): 9.979281307237715 %
+Base-line MAE:  9.178278865717582
+Coefficient of Variation (CV) of RMSE: -0.11208398912202255
+R² Score: 0.001988158267797302
+
+
+DAY-WISE ANALYSIS (MON, TUES, ..., SUN)
+
+Day of the week: 0
+Mean Absolute Error (MAE): 9.27425739193802
+Mean Absolute Percentage Error (MAPE): 10.078930612412094 %
+Base-line MAE:  9.759626149514755
+Coefficient of Variation (CV) of RMSE: -0.11122969091555804
+R² Score: 0.052780391461835774
+
+
+Day of the week: 1
+Mean Absolute Error (MAE): 9.26606155560033
+Mean Absolute Percentage Error (MAPE): 10.073736992971627 %
+Base-line MAE:  9.776812967620707
+Coefficient of Variation (CV) of RMSE: -0.11130637261070775
+R² Score: 0.05551676548377993
+
+
+Day of the week: 2
+Mean Absolute Error (MAE): 9.288202427599023
+Mean Absolute Percentage Error (MAPE): 10.098506373123275 %
+Base-line MAE:  9.772905322691432
+Coefficient of Variation (CV) of RMSE: -0.1114776168282587
+R² Score: 0.05302668434405433
+
+
+Day of the week: 3
+Mean Absolute Error (MAE): 9.28570922936538
+Mean Absolute Percentage Error (MAPE): 10.094203316910882 %
+Base-line MAE:  9.770224369336828
+Coefficient of Variation (CV) of RMSE: -0.11141040984156578
+R² Score: 0.052349385133778736
+
+
+Day of the week: 4
+Mean Absolute Error (MAE): 9.19771467215092
+Mean Absolute Percentage Error (MAPE): 9.991391003636613 %
+Base-line MAE:  9.678374533471048
+Coefficient of Variation (CV) of RMSE: -0.11053008500195191
+R² Score: 0.05246333639162548
+
+
+Day of the week: 5
+Mean Absolute Error (MAE): 9.127999165883901
+Mean Absolute Percentage Error (MAPE): 9.909115978656441 %
+Base-line MAE:  9.571402817729913
+Coefficient of Variation (CV) of RMSE: -0.10960063421663818
+R² Score: 0.04878537477280065
+
+
+Day of the week: 6
+Mean Absolute Error (MAE): 9.016674874872221
+Mean Absolute Percentage Error (MAPE): 9.77572523069232 %
+Base-line MAE:  9.468667911359612
+Coefficient of Variation (CV) of RMSE: -0.10837668033259225
+R² Score: 0.050631770310691215
+
+
+TIME-WISE ANALYSIS (MORN, NOON, EVE, NIGHT)
+
+Time of the Day: 0
+Mean Absolute Error (MAE): 9.266969192371196
+Mean Absolute Percentage Error (MAPE): 10.071685873559295 %
+Base-line MAE:  9.74539068820632
+Coefficient of Variation (CV) of RMSE: -0.11131704772184632
+R² Score: 0.05246426308584695
+
+
+Time of the Day: 1
+Mean Absolute Error (MAE): 9.582153582733884
+Mean Absolute Percentage Error (MAPE): 10.442299213588324 %
+Base-line MAE:  10.076152443346452
+Coefficient of Variation (CV) of RMSE: -0.1149477047474629
+R² Score: 0.05116963507605321
+
+
+Time of the Day: 2
+Mean Absolute Error (MAE): 9.239148123033171
+Mean Absolute Percentage Error (MAPE): 10.04238408422273 %
+Base-line MAE:  9.706793559670439
+Coefficient of Variation (CV) of RMSE: -0.1109705711210184
+R² Score: 0.05000671531635004
+
+
+Time of the Day: 3
+Mean Absolute Error (MAE): 8.761516209919312
+Mean Absolute Percentage Error (MAPE): 9.474427644806267 %
+Base-line MAE:  9.156942745608767
+Coefficient of Variation (CV) of RMSE: -0.10545355029953846
+R² Score: 0.04556268804651786

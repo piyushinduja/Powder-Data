@@ -1,0 +1,158 @@
+TEMPERATURE (TEMP)
+
+data_0
+Correlation coefficient (r): -0.8011739915387832 P-value: 7.984042193306028e-12
+data_1
+Correlation coefficient (r): -0.9051707742883124 P-value: 1.0414716818326217e-18
+data_2
+Correlation coefficient (r): -0.15692488508556654 P-value: 0.28156722625263275
+data_3
+Correlation coefficient (r): -0.7002518074578323 P-value: 2.139842508347913e-08
+data_4
+Correlation coefficient (r): -0.6696628415564131 P-value:  .6425619996861594e-07
+data_5
+Correlation coefficient (r): -0.916292385504006 P-value: 1.6855442796473395e-19
+data_6
+Correlation coefficient (r): -0.9351254820287205 P-value: 2.3337626161065696e-22
+data_7
+Correlation coefficient (r): -0.9430610266309578 P-value: 1.2651798015514928e-23
+
+
+PRESSURE (PRES)
+
+data_0
+Correlation coefficient (r): 0.8934133653161487 P-value: 1.3449226707187412e-17
+data_1
+Correlation coefficient (r): 0.7558578272601715 P-value: 5.275309302645175e-10
+data_2
+Correlation coefficient (r): -0.12495218639836934 P-value: 0.39744219260095
+data_3
+Correlation coefficient (r): 0.8122334750426865 P-value: 2.4328236261684498e-12
+data_4
+Correlation coefficient (r): -0.1833140862091328 P-value: 0.24522011032372837
+data_5
+Correlation coefficient (r): 0.8608143382090727 P-value: 1.706634306885268e-14
+data_6
+Correlation coefficient (r): 0.7020110187990705 P-value: 2.7022113886582227e-08
+data_7
+Correlation coefficient (r): 0.6690553619912776 P-value: 2.010893185690373e-07
+
+
+HUMIDITY (RHUM)
+
+data_0
+Correlation coefficient (r): 0.623733808979412 P-value: 5.1360266534717894e-11
+data_1
+Correlation coefficient (r): 0.6407758515194996 P-value: 1.3505808572253252e-11
+data_2
+Correlation coefficient (r): 0.05471863454713845 P-value: 0.608487067923739
+data_3
+Correlation coefficient (r): 0.2709901452159476 P-value: 0.010210127343253612
+data_4
+Correlation coefficient (r): 0.12700207974479424 P-value: 0.23834559230436073
+data_5
+Correlation coefficient (r): 0.6695855112486964 P-value: 1.3337761337675153e-12
+data_6
+Correlation coefficient (r): 0.7610972967306049 P-value: 3.160680375109898e-18
+data_7
+Correlation coefficient (r): 0.7238854503476162 P-value: 5.19061026828929e-16
+
+
+PRECIPITATION (PRCP)
+
+data_0
+Correlation coefficient (r): 0.4220933653388115 P-value: 0.08101209293849188
+data_1
+Correlation coefficient (r): -0.11548884355164173 P-value: 0.6087985988408415
+data_2
+Correlation coefficient (r): -0.02308881601316118 P-value: 0.9187663305929485
+data_3
+Correlation coefficient (r): -0.39034926736675646 P-value: 0.08021392951971265
+data_4
+Correlation coefficient (r): -0.28983031991757424 P-value: 0.19074874354889026
+data_5
+Correlation coefficient (r): -0.2006855643990751 P-value: 0.41004646302411624
+data_6
+Correlation coefficient (r): -0.008368297657160378 P-value: 0.9690433695385516
+data_7
+Correlation coefficient (r): -0.5025872223970507 P-value: 0.02023277026177499
+
+
+DEW POINT (DWPT)
+
+data_0
+Correlation coefficient (r): -0.8007544047054641 P-value: 7.657850878998452e-09
+data_1
+Correlation coefficient (r): -0.883428973031799 P-value: 9.765178872591787e-13
+data_2
+Correlation coefficient (r): -0.21162374877829257 P-value: 0.22231541414223996
+data_3
+Correlation coefficient (r): -0.6830297643104286 P-value: 1.1872446510058698e-05
+data_4
+Correlation coefficient (r): -0.9257075189890767 P-value: 2.4161094768530904e-13
+data_5
+Correlation coefficient (r): -0.9585808964339643 P-value: 1.8267462066388604e-18
+data_6
+Correlation coefficient (r): -0.8110036913402852 P-value: 1.1571373897332522e-09
+data_7
+Correlation coefficient (r): -0.9398425453855109 P-value: 5.903861840897132e-17
+
+
+WIND DIRECTION (WDIR) IN DEGREES
+
+data_0
+Correlation coefficient (r): 0.020484930705408792 P-value: 0.894997265326691
+data_1
+Correlation coefficient (r): -0.18428397670022412 P-value: 0.2255740397242481
+data_2
+Correlation coefficient (r): 0.1337118961697085 P-value: 0.38121089010612463
+data_3
+Correlation coefficient (r): -0.23062305900652103 P-value: 0.13678434939692327
+data_4
+Correlation coefficient (r): -0.002916405734285004 P-value: 0.9839631702803137
+data_5
+Correlation coefficient (r): 0.18592807091848365 P-value: 0.22690388447646237
+data_6
+Correlation coefficient (r): 0.23787919433059104 P-value: 0.083254797919316
+data_7
+Correlation coefficient (r): 0.09176348146297982 P-value: 0.5262155809784148
+
+
+WIND SPEED (WSPD)
+
+data_0
+Correlation coefficient (r): -0.4945549041713198 P-value: 0.008732944399370366
+data_1
+Correlation coefficient (r): 0.38502402462836216 P-value: 0.0631838254491501
+data_2
+Correlation coefficient (r): -0.08804945105345126 P-value: 0.6559303190074496
+data_3
+Correlation coefficient (r): -0.43172279407407166 P-value: 0.03968015963392512
+data_4
+Correlation coefficient (r): 0.16726235196862857 P-value: 0.3684576296720056
+data_5
+Correlation coefficient (r): -0.20650718384433076 P-value: 0.2200892144730399
+data_6
+Correlation coefficient (r): -0.3040444819103391 P-value: 0.04480031609687515
+data_7
+Correlation coefficient (r): -0.1347804667544209 P-value: 0.4331991617923251
+
+
+WEATHER CONDITION CODE (COCO)
+
+data_0
+Correlation coefficient (r): -0.07051687452784192 P-value: 0.8276078263981994
+data_1
+Correlation coefficient (r): -0.6426647233144175 P-value: 0.02420472101461545
+data_2
+Correlation coefficient (r): -0.37932646081498567 P-value: 0.22394649337582478
+data_3
+Correlation coefficient (r): -0.5134710217428278 P-value: 0.08773866731072537
+data_4
+Correlation coefficient (r): -0.20269151259303694 P-value: 0.5275222510315121
+data_5
+Correlation coefficient (r): 0.4425565956971044 P-value: 0.1496708277299602
+data_6
+Correlation coefficient (r): -0.2956309914120291 P-value: 0.32675679682185377
+data_7
+Correlation coefficient (r): -0.17327399285262965 P-value: 0.590199060135539

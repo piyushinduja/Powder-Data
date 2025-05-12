@@ -1,0 +1,27 @@
+Topic for the final Project:
+
+Fall 2024
+
+- Made a profile on cloudlab...
+
+Spring 2025
+
+- Started with a goal to predict power values which was useful for researchers who want to utilise the maximum power for their experiemnts.
+
+- They were most affected by the "frequrency". But if someone needs to use a specific frequency band at maximum power, is there something they can do?
+
+- Then I started looking for different factors such as location, time of the day, day of the week, etc. But no feature gave me some concrete correlations with the power values.
+
+- I tried using Claude to find some patterns in the data but it couldn't handle large number of power values (4429 values) and failed giving me just basic numeric stats such as count of the frequency or location-wise data and the average values. So, I couldn't trust it with the numeric explainations it gave for any patterns.
+
+- Open-ended or Specific questions with Claude: Which works better? Show prompts and evidence.
+
+- Yes, one thing which helped me get better results from it was when I asked it to output the python code which it is using for calculations, I gave me comparably better results.
+
+- I understood that Claude's result couldn't be trusted until I have verified those with some of the concrete patterns which i observe myself.
+
+- I started looking for other dimensions in the data when I checked for the different weather dimensions which included temperature, humidity, pressure and precipitation.
+
+- I found out that temperature was negatively correlated with power values 
+
+-------------CONTINUE BY ADDING YOUR RESULTS-------------------------
